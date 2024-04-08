@@ -1,0 +1,14 @@
+C:\Builds\LastOperator\LastOperator\bin\Debug\net8.0\LastOperator.exe
+C:\Builds\LastOperator\LastOperator\bin\Debug\net8.0\LastOperator.deps.json
+C:\Builds\LastOperator\LastOperator\bin\Debug\net8.0\LastOperator.runtimeconfig.json
+C:\Builds\LastOperator\LastOperator\bin\Debug\net8.0\LastOperator.dll
+C:\Builds\LastOperator\LastOperator\bin\Debug\net8.0\LastOperator.pdb
+C:\Builds\LastOperator\LastOperator\obj\Debug\net8.0\LastOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Builds\LastOperator\LastOperator\obj\Debug\net8.0\LastOperator.AssemblyInfoInputs.cache
+C:\Builds\LastOperator\LastOperator\obj\Debug\net8.0\LastOperator.AssemblyInfo.cs
+C:\Builds\LastOperator\LastOperator\obj\Debug\net8.0\LastOperator.csproj.CoreCompileInputs.cache
+C:\Builds\LastOperator\LastOperator\obj\Debug\net8.0\LastOperator.dll
+C:\Builds\LastOperator\LastOperator\obj\Debug\net8.0\refint\LastOperator.dll
+C:\Builds\LastOperator\LastOperator\obj\Debug\net8.0\LastOperator.pdb
+C:\Builds\LastOperator\LastOperator\obj\Debug\net8.0\LastOperator.genruntimeconfig.cache
+C:\Builds\LastOperator\LastOperator\obj\Debug\net8.0\ref\LastOperator.dll
